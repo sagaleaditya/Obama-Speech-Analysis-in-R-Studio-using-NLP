@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544886014180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1328205856",
+    "id" : "7D52093F",
+    "lastKnownWriteTime" : 1544886103,
+    "last_content_update" : 1544886103656,
+    "path" : "~/obama Speech/obama.R",
+    "project_path" : "obama.R",
+    "properties" : {
+        "cursorPosition" : "44,55",
+        "scrollLine" : "40",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
